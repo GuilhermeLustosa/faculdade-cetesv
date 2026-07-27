@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /_headers
-Disallow: /.htaccess
-Sitemap: https://www.cetesv.edu.br/sitemap.xml
